@@ -1,0 +1,28 @@
+{
+  "name": "Abstract Testnet Tokens",
+  "timestamp": "2024-12-27T13:10:18.339Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1628852295",
+      "chainId": 48899,
+      "address": "0x9EDCde0257F2386Ce177C3a7FCdd97787F0D841d",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+      "chainId": 48899,
+      "address": "0xe4C7fBB0a626ed208021ccabA6Be1566905E2dFc",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6
+    }
+  ],
+  "logoURI": "ipfs://"
+}
